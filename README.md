@@ -12,7 +12,8 @@ This project implements a supervised machine learning model to classify fraudule
 ## Methodology
 - Data preprocessing and feature scaling
 - Handling class imbalance
-- Model training and evaluation using precision, recall, and ROC-AUC
+- Model training and evaluation
+  
 
 ## Results
 The model achieves high recall for fraudulent transactions while maintaining low false positives.
